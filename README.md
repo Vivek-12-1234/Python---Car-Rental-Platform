@@ -7,3 +7,5 @@ This project creates a Python-based car rental platform where customers can rent
 Customers can view available cars, choose their rental mode, and receive an auto-generated bill when returning vehicles. The system uses the DateTime module to record rental periods, updates inventory in real time, and ensures accurate billing.
 
 This solution combines flexible rental options with automated inventory and billing, providing an efficient and seamless car rental experience.
+
+Google colab link - https://colab.research.google.com/drive/1xEQ7pf8kGcHhOBLPbr7KC2eU6wT5CA0g?usp=drive_link
